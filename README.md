@@ -20,3 +20,6 @@ In this repository:
 4. Hier_clustering build a hierachical clustering of the samples using the Wasserstein distances and then run Kaplan-Meier analysis
 
 5. MatSurv: Kaplan-Meier analysis, download from https://www.mathworks.com/matlabcentral/fileexchange/64582-matsurv
+
+
+![image]https://github.com/Jiening666/vWCluster/blob/master/data/Screenshot%202021-06-01%20113358.png
