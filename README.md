@@ -22,4 +22,4 @@ In this repository:
 5. MatSurv: Kaplan-Meier analysis, download from https://www.mathworks.com/matlabcentral/fileexchange/64582-matsurv
 
 
-![image]https://github.com/Jiening666/vWCluster/blob/master/data/Screenshot%202021-06-01%20113358.png
+![image](https://github.com/Jiening666/vWCluster/blob/master/data/Screenshot%202021-06-01%20113358.png)
